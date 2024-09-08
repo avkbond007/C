@@ -1,20 +1,20 @@
-What is a pointer?
+**What is a pointer?**
 A pointer is a variable that stores the hexadecimal address of the variable it is pointing to.
 
-Declaring Pointers
+**Declaring Pointers**
 A pointer variable is declared like so:
 
-type* pntr; 
-type *pntr;
+type* ptr; 
+type *ptr;
 
-Accessing Memory Address
+**Accessing Memory Address**
 A memory address of a variable is obtained using the reference operator (&). Example: &var.
 
-Dereferencing Pointers
+**Dereferencing Pointers**
 A pointer is dereferenced using the dereference operator (*). Example: *pntr.
 
-Incrementing and Decrementing Pointers
+**Incrementing and Decrementing Pointers**
 Pointers can be incremented and decremented using the + and - arithmetic operators.
 
-Accessing Arrays
+**Accessing Arrays**
 Arrays can be accessed by using a pointer to the first element and incrementing and decrementing as necessary.
