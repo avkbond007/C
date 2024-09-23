@@ -14,7 +14,7 @@
 
 ---
 
-### **Stage 1: Introduction to C Programming - Conditional Statements**
+### **Stage 2: Introduction to C Programming - Conditional Statements**
 
 Conditional statements are essential in programming to make decisions based on specific conditions. They control the flow of a program by executing certain blocks of code when particular conditions are met.
 
